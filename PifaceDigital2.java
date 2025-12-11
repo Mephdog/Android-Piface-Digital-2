@@ -6,7 +6,7 @@
  * thx Robert Savage & martin86
  *
  *
- *  by Esca
+ *  by Mephdog
  *
  *
  */
